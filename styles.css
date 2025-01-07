@@ -32,6 +32,11 @@ img{
   width: 80%;
 }
 
+h3{
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  font-size: 4rem;
+}
 
 footer{
   margin-top: 5%;
